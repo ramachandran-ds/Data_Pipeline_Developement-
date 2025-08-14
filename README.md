@@ -1,1 +1,13 @@
-# Data_Pipeline_Developement-
+DATA-PIPELINE-DEVELOPMENT
+
+COMPANY        :   CODTECH IT SOLUTIONS
+
+NAME           :   RAMACHANDRAN K
+
+INTERN ID      :   CT04DH2787
+
+DOMAIN         :   DATA SCIENCE
+
+DURATION       :   4 WEEEKS
+
+MENTOR         :   NEELA SANTOSH
